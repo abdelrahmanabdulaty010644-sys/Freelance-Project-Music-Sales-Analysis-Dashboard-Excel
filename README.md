@@ -8,8 +8,9 @@ The primary objective was to transform event logs into actionable commercial ins
 ---
 
 ## 🖥️ Dashboard Preview
-*(📸 Capture a clean screenshot of your Excel dashboard, upload it to this repository, and link it below)*
-![Music vs Sales Dashboard](dashboard-preview.png)
+Below is a comprehensive view of the developed interactive Excel Dashboard:
+
+![Music vs Sales Dashboard](https://raw.githubusercontent.com/abdelrahmanabdulaty010644-sys/Freelance-Project-Music-Sales-Analysis-Dashboard-Excel/main/Screenshot%202026-06-19%20233753.png)
 
 ---
 
